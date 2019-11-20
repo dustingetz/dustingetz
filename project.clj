@@ -7,4 +7,5 @@
                  [clj-time "0.15.2"]
                  [org.clojure/test.check "0.9.0"]
                  [org.clojure/math.combinatorics "0.1.6"]
-                 ])
+                 [com.datomic/client-cloud "0.8.78"]
+                 [javax.xml.bind/jaxb-api "2.3.0"]])
